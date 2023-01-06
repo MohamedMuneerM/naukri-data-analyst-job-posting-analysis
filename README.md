@@ -1,1 +1,1 @@
-"# naukri-data-analyst-job-posting-analysis" 
+# naukri-data-analyst-job-posting-analysis
